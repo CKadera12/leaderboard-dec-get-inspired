@@ -1,1 +1,0 @@
-# leaderboard-dec-get-inspired
